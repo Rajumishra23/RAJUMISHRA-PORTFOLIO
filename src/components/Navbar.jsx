@@ -76,8 +76,8 @@ const Navbar = () => {
           </div>
 
           <a
-            href="/resume.pdf"
-            download
+            href="/RAJUMISHRA_RESUME.pdf"
+            download="RAJUMISHRA_RESUME.pdf"
             className="flex items-center gap-2 px-6 py-2.5 rounded-full font-semibold text-white bg-gradient-to-r from-emerald-500 to-teal-500 hover:scale-105 transition duration-300 shadow-md hover:shadow-xl"
           >
             ⬇ Resume
